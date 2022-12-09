@@ -1,0 +1,56 @@
+**Movement**
+
+Press A to turn left
+Press D to turn right
+Press W to turn front
+Press S to turn back
+--------------------------
+Press Q to walk front
+Press E to walk backward
+
+
+**Camera**
+Press scroll up to zoom in 
+Press scroll down to zoom out
+Left click and move left to rotate left
+Left click and move right to rotate right
+Left click and move up to rotate upward
+Left click and move down to rotate downward
+Press P to change viewport
+
+**Hand**
+Press 5 to wave left hand
+Press 6 to wave right hand
+
+Press 7 to move the left arm up or down
+Press 8 to move the right arm up or down
+
+Press 9 to move the left arm up or down(with palm up) --> ready to attack with energy ball--> press or long press X and release
+Press 0 to move the right arm up or down(with palm up) --> ready to attack with energy ball--> press or long press X and release
+
+**Head**
+Press left arrow button to turn head left
+Press right arrow to turn head right
+
+**Leg**
+Press Y to move the left fore legs up or down(only one leg can up at one time)
+Press U to move the right fore legs up or down(only one leg can up at one time)
+
+**Light (Light is at top)**
+press 2 to turn light on or off
+
+**Weapon**
+press 3 to equip a sword on left hand 
+press 4 to equip a spike hammer on right hand
+Long press X to charge energy ball and release to shoot(only when arm and palm are lifted-->press 9)
+
+**Other**
+Press spacebar to back to original view and position
+Press 1 to change day or night
+
+**Texture**
+Press T to toggle texture on or off
+Press J to toggle between metal texture
+Press K to toggle between flame texture
+Press L to toggle between army texture
+Press M to toggle between joint texture
